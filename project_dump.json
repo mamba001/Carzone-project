@@ -1,0 +1,1340 @@
+[
+{
+    "model": "cars.car",
+    "pk": 1,
+    "fields": {
+        "car_title": "2022 BMW X6",
+        "state": "CA",
+        "city": "Fremont",
+        "color": "Mineral White Metallic",
+        "model": "X6",
+        "year": 2022,
+        "condition": "New",
+        "price": 86400,
+        "description": "<p>Executive Package,M Sport Package,Driving Assistance Professional Package,Luxury Seating Package,Climate Comfort Package,Harman/Kardon Surround Sound System,Parking Assistance Package,Multi-Contour Seats,4-Zone Automatic Climate Control,Glass Controls,M Sport Brakes W/Blue Calipers,Mineral White Met&nbsp;allic,Shadowline Package,Sun/Moonroof,Illuminated Kidney Grille,Wireless Charging,Navigation System,Heated Front Seats Armrests &amp; Steering Wheel,Rear Manual Side Window Shades,Lane Keeping Assist,Keyless Start,Bluetooth Connection,Rear Spoiler,Heads-Up Display,Cooled Front Seat(S),All Wheel Drive,Black; Sensafin Upholstery,Wheels: 20&quot; X 9&quot; M Star-Spoke Bi-Color (Style 740M)</p>",
+        "car_photo": "photots/2022/11/28/BMW1_25rIZX6.webp",
+        "car_photo_1": "photots/2022/11/28/BMW2_0A9Ubhd.webp",
+        "car_photo_2": "photots/2022/11/28/BMW3_Qt0Dl0D.webp",
+        "car_photo_3": "photots/2022/11/28/BMW4_L8cng6e.webp",
+        "car_photo_4": "",
+        "features": "Cruise Control,Alarm System,ParkAssist,Auto Start/Stop",
+        "body_style": "SUV",
+        "engine": "3.0L Turbo",
+        "transmission": "Automatic",
+        "interior": "Black",
+        "miles": 53,
+        "doors": "4",
+        "passengers": 5,
+        "vin_no": "5UXCY6C05P9N95646",
+        "mileage": 20,
+        "fuel_type": "Gasoline",
+        "no_of_owners": "0",
+        "is_featured": true,
+        "created_date": "2022-11-28T00:52:44Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 2,
+    "fields": {
+        "car_title": "2008 Ford Shelby",
+        "state": "CA",
+        "city": "Fremont",
+        "color": "White",
+        "model": "Shelby",
+        "year": 2008,
+        "condition": "Used",
+        "price": 39987,
+        "description": "<p>This 2008 Performance White Clearcoat Ford Mustang Shelby GT500 RWD is well equipped and includes these features and benefits: Order Code 820A, Premium Interior Trim Package (Aluminum Pedal Covers and Electrochromic Rear-View Mirror w/Compass), 5.4L V8 DOHC Supercharged, 18&#39;&#39; x 9.5&#39;&#39; Bright Machined&nbsp;Aluminum Wheels, 4-Wheel Disc Brakes, 8 Speakers, ABS brakes, Air Conditioning, Alloy wheels, AM/FM radio, Bumpers: body-color, CD player, Driver door bin, Driver vanity mirror, Dual front impact airbags, Dual front side impact airbags, Front anti-roll bar, Front Bucket Seats, Front Center Armrest, Front fog lights, Front reading lights, Front wheel independent suspension, Illuminated entry, Leather Shift Knob, Leather Sport Bucket Seats, Low tire pressure warning, MP3 decoder, Occupant sensing airbag, Panic alarm, Passenger door bin, Passenger vanity mirror, Power door mirrors, Power driver seat, Power steering, Power windows, Premium audio system: Shaker 500, Radio data system, Rear anti-roll bar, Rear window defroster, Remote keyless entry, Security system, Shaker 500 AM/FM Stereo w/CDx6/MP3, Speed control, Split folding rear seat, Spoiler, Tachometer, Tilt steering wheel, Traction control, Trip computer, and Variably intermittent wipers. MUST SEE, NEW TIRES!, 5.4L V8 DOHC Supercharged, Aluminum Pedal Covers, Electrochromic Rear-View Mirror w/Compass, Order Code 820A, Premium Interior Trim Package.Odometer is 8017 miles below market average!Awards: 2008 KBB.com Brand Image Awards Reviews: If youre a fan of the affordable, powerful, rear-wheel-drive vehicles that have defined the American muscle car, youll find the 2008 Ford Mustang a properly refined version and thoroughly satisfying. Source: KBB.com</p>",
+        "car_photo": "photots/2022/11/28/Ford1.webp",
+        "car_photo_1": "photots/2022/11/28/Ford2.webp",
+        "car_photo_2": "photots/2022/11/28/Ford3.webp",
+        "car_photo_3": "photots/2022/11/28/Ford4.webp",
+        "car_photo_4": "",
+        "features": "Cruise Control,Airbags",
+        "body_style": "Coupe",
+        "engine": "5.4L",
+        "transmission": "6-SPEED M/T",
+        "interior": "Black",
+        "miles": 37946,
+        "doors": "2",
+        "passengers": 4,
+        "vin_no": "1ZVHT88S085174211",
+        "mileage": 18,
+        "fuel_type": "Gasoline",
+        "no_of_owners": "2",
+        "is_featured": false,
+        "created_date": "2022-11-28T00:57:05Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 3,
+    "fields": {
+        "car_title": "2019 Mercedes-Benz AMG SL 63",
+        "state": "CA",
+        "city": "San Jose",
+        "color": "Diamond White Metallic",
+        "model": "AMG SL63",
+        "year": 2019,
+        "condition": "Used",
+        "price": 115955,
+        "description": "<ul>\r\n\t<li>Bang &amp; Olufsen Beosound Premium Sound System</li>\r\n\t<li>Magic Sky Control</li>\r\n\t<li>Driver Assistance Package</li>\r\n\t<li>Wheels: 19&quot; Front/20&quot; Rear Amg Cross-Spoke; Black</li>\r\n\t<li>Designo Diamond White Metallic</li>\r\n\t<li>Amg Exterior Night Styling Package</li>\r\n\t<li>Sun/Moonroof</li>\r\n\t<li>Leather Seats</li>\r\n\t<li>Navigation System</li>\r\n\t<li>Soft Close Doors</li>\r\n\t<li>Lane Keeping Assist</li>\r\n\t<li>Keyless Start</li>\r\n\t<li>Bluetooth Connection</li>\r\n\t<li>Rear Spoiler</li>\r\n\t<li>Cooled Front Seat(S)</li>\r\n\t<li>Amg Carbon Fiber Trim</li>\r\n\t<li>Dinamica Headliner Black</li>\r\n\t<li>Porcelain/Black; Perforated Nappa Leather Upholstery</li>\r\n\t<li>Wheel Locking Bolts</li>\r\n</ul>",
+        "car_photo": "photots/2022/11/28/AMG1_OmusSch.webp",
+        "car_photo_1": "photots/2022/11/28/AMG2_88ssNz0.webp",
+        "car_photo_2": "photots/2022/11/28/AMG3_Omg5m6I.webp",
+        "car_photo_3": "photots/2022/11/28/AMG4_1JiRC2P.webp",
+        "car_photo_4": "photots/2022/11/28/AMG5_hub4ycK.webp",
+        "features": "Cruise Control,Airbags,Seat Heating,ParkAssist,Reversing Camera,Auto Start/Stop",
+        "body_style": "Two-door convertible",
+        "engine": "5.5L V8 32V GDI DOHC Twin Turbo",
+        "transmission": "Automatic",
+        "interior": "Black/Creamy white",
+        "miles": 29948,
+        "doors": "2",
+        "passengers": 2,
+        "vin_no": "WDDJK7EA6KF054949",
+        "mileage": 16,
+        "fuel_type": "Gasoline",
+        "no_of_owners": "1",
+        "is_featured": true,
+        "created_date": "2022-11-28T01:08:35Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 4,
+    "fields": {
+        "car_title": "2022 Ferrari Roma",
+        "state": "CA",
+        "city": "San Francisco",
+        "color": "Blu Swaters",
+        "model": "Roma",
+        "year": 2022,
+        "condition": "Used",
+        "price": 289000,
+        "description": "<p>Official Ferrari Dealership Chassis# 273983 Exterior: Blu Swaters Interior: Cuoio Carpets: Nero Options: APPLE CARPLAY, ADAS FULL PACK, BRAKE CALLIPERS IN ALLUMINIO, CAVALLINO STITCHED ON HEADREST IN BLU MEDIO, SPORT TAILPIPE TIPS, ADDITIONAL COLORED MATS WITH LOGO, CARBON FIBER STEERING WHEEL+LEDS,&nbsp;&#39;SCUDERIA FERRARI&#39; SHIELDS, MAGNERIDE DUAL MODE SUSPENSION, COLOR UPON REQUEST FOR PIPING BLU MEDIO, FERRARI HISTORICAL COLORS BLU SWATERS, 20&#39; FORGED DIAMOND WHEELS, FULL ELECTRIC SEATS, FOLDABLE REAR SEAT BACKREST, HIGH POWER HI-FI SYSTEM, COLORED SPECIAL STITCHING IN CUOIO.</p>",
+        "car_photo": "photots/2022/11/28/Ferrari1.webp",
+        "car_photo_1": "photots/2022/11/28/Ferrari2.webp",
+        "car_photo_2": "photots/2022/11/28/Ferrari3.webp",
+        "car_photo_3": "photots/2022/11/28/Ferrari4.webp",
+        "car_photo_4": "photots/2022/11/28/Ferrari5.webp",
+        "features": "Cruise Control,Audio Interface,Airbags,Power Steering,Direct Fuel Injection",
+        "body_style": "Coupe",
+        "engine": "3.9L V8 32V GDI DOHC Twin Turbo",
+        "transmission": "8-Speed Automatic",
+        "interior": "Cuoio",
+        "miles": 1111,
+        "doors": "2",
+        "passengers": 4,
+        "vin_no": "ZFF98RNA5N0273983",
+        "mileage": 15,
+        "fuel_type": "Gasoline",
+        "no_of_owners": "1",
+        "is_featured": true,
+        "created_date": "2022-11-28T01:09:51Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 5,
+    "fields": {
+        "car_title": "2019 Porsche 718 Cayman GTS",
+        "state": "CA",
+        "city": "San Jose",
+        "color": "Racing Yellow",
+        "model": "718",
+        "year": 2019,
+        "condition": "Used",
+        "price": 80988,
+        "description": "<p>2019 Porsche 718 Cayman GTS CLEAN HISTORY REPORT!!, 2.5L 4-Cylinder Turbocharged DOHC, Black w/Partial Leather Seat Trim w/Alcantara Seat Centers, 20 Carrera S Wheels, ABS brakes, Alloy wheels, DVD-Audio, Electronic Stability Control, Heated door mirrors, Illuminated entry, Low tire pressure war&nbsp;ning, Porsche Communication Management, Remote keyless entry, Traction control. Awards: 2019 KBB.com Brand Image Awards 2019 KBB.com Best Resale Value Awards</p>",
+        "car_photo": "photots/2022/11/28/porsche1.webp",
+        "car_photo_1": "photots/2022/11/28/porsche2.webp",
+        "car_photo_2": "photots/2022/11/28/porsche3.webp",
+        "car_photo_3": "photots/2022/11/28/porsche4.webp",
+        "car_photo_4": "photots/2022/11/28/porsche5.webp",
+        "features": "Cruise Control,Airbags,Air Conditioning",
+        "body_style": "Coupe",
+        "engine": "2.5L H4 16V GDI DOHC Turbo",
+        "transmission": "7-Speed Automatic",
+        "interior": "Black",
+        "miles": 17634,
+        "doors": "2",
+        "passengers": 2,
+        "vin_no": "WP0AB2A80KS278399",
+        "mileage": 17,
+        "fuel_type": "Gasoline",
+        "no_of_owners": "2",
+        "is_featured": false,
+        "created_date": "2022-11-28T19:44:34Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 6,
+    "fields": {
+        "car_title": "2021 Lamborghini Urus",
+        "state": "CA",
+        "city": "Palo Alto",
+        "color": "Giallo Inti Pearl",
+        "model": "Urus",
+        "year": 2021,
+        "condition": "Used",
+        "price": 312900,
+        "description": "<p>CARFAX One-Owner. Giallo Inti Pearl 2021 Lamborghini Urus Pearl Capsule AWD 8-Speed Automatic V8 ABS brakes, Active Cruise Control, Alloy wheels, Compass, Electronic Stability Control, Emergency communication system, Entertainment system, Front dual zone A/C, Heated door mirrors, Heated Front Bucket&nbsp;Seats, Heated front seats, Illuminated entry, Low tire pressure warning, Navigation System, Power Liftgate, Rear dual zone A/C, Remote keyless entry, Traction control, Wheels: 23&quot; x 10J Fr &amp; 23&quot; x 11.5J Rr Taigete Shiny Blk.</p>",
+        "car_photo": "photots/2022/11/29/Lamborghini1.webp",
+        "car_photo_1": "photots/2022/11/29/Lamborghini2.webp",
+        "car_photo_2": "photots/2022/11/29/Lamborghini3.webp",
+        "car_photo_3": "photots/2022/11/29/Lamborghini4.webp",
+        "car_photo_4": "photots/2022/11/29/Lamborghini5.webp",
+        "features": "Cruise Control,Air Conditioning",
+        "body_style": "SUV",
+        "engine": "Twin Turbo Premium Unleaded V-8 4.0 L/244",
+        "transmission": "Automatic",
+        "interior": "Black",
+        "miles": 1935,
+        "doors": "4",
+        "passengers": 5,
+        "vin_no": "ZPBUA1ZL4MLA14546",
+        "mileage": 12,
+        "fuel_type": "Gasoline",
+        "no_of_owners": "1",
+        "is_featured": true,
+        "created_date": "2022-11-29T18:57:00Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 2,
+    "fields": {
+        "first_name": "Michael",
+        "last_name": "Jordan",
+        "designation": "Founder",
+        "photo": "photos/2022/11/23/Michael_Jordan_in_2014.jpeg",
+        "facebook_link": "https://www.facebook.com/",
+        "twitter_link": "https://www.twitter.com/",
+        "google_plus_link": "https://www.google.com/",
+        "created_date": "2022-11-23T22:25:31.336Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 3,
+    "fields": {
+        "first_name": "Kobe",
+        "last_name": "Bryant",
+        "designation": "Co-founder",
+        "photo": "photos/2022/11/23/images.jpeg",
+        "facebook_link": "https://www.facebook.com/",
+        "twitter_link": "https://www.twitter.com/",
+        "google_plus_link": "https://www.google.com/",
+        "created_date": "2022-11-23T22:26:29.554Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 4,
+    "fields": {
+        "first_name": "Stephen",
+        "last_name": "Curry",
+        "designation": "CFO",
+        "photo": "photos/2022/11/23/images_1.jpeg",
+        "facebook_link": "https://www.facebook.com/",
+        "twitter_link": "https://www.twitter.com/",
+        "google_plus_link": "https://www.google.com/",
+        "created_date": "2022-11-23T22:28:46.185Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 5,
+    "fields": {
+        "first_name": "Pau",
+        "last_name": "Gasol",
+        "designation": "COO",
+        "photo": "photos/2022/11/23/images_2.jpeg",
+        "facebook_link": "https://www.facebook.com/",
+        "twitter_link": "https://www.twitter.com/",
+        "google_plus_link": "https://www.google.com/",
+        "created_date": "2022-11-23T22:30:16.944Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 7,
+    "fields": {
+        "first_name": "Kevon",
+        "last_name": "Looney",
+        "designation": "CTO",
+        "photo": "photos/2022/11/23/Kevon_Looney_at_2016_D-League_Showcase_WQ0a8Rh.jpeg",
+        "facebook_link": "https://www.facebook.com/",
+        "twitter_link": "https://www.twitter.com/",
+        "google_plus_link": "https://www.google.com/",
+        "created_date": "2022-11-23T22:54:17.608Z"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 6,
+    "fields": {
+        "first_name": "Peter",
+        "last_name": "Zhuang",
+        "car_id": 5,
+        "customer_need": "I'm interested in this",
+        "car_title": "2019 Porsche 718 Cayman GTS",
+        "city": "1",
+        "state": "2",
+        "email": "peter95zh@gmail.com",
+        "phone": "",
+        "message": "test",
+        "user_id": 1,
+        "create_date": "2022-12-01T20:00:16.186Z"
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$390000$dn0z8ohDk67zQeRjBMOJEs$dYdUGy54VI/MnPRpTIhzcSXJ6JT+2+dpeCDaq3XEbUo=",
+        "last_login": "2022-12-01T19:19:51.348Z",
+        "is_superuser": true,
+        "username": "myadmin",
+        "first_name": "Peter",
+        "last_name": "Zhuang",
+        "email": "peter95zh@gmail.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2022-11-23T19:50:46Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "sites.site",
+    "fields": {
+        "domain": "localhost:8000",
+        "name": "localhost:8000"
+    }
+},
+{
+    "model": "socialaccount.socialapp",
+    "pk": 1,
+    "fields": {
+        "provider": "facebook",
+        "name": "Facebook login",
+        "client_id": "2085801721618152",
+        "secret": "47843547bb3387736ba2a576f6039eb8",
+        "key": "",
+        "sites": [
+            [
+                "localhost:8000"
+            ]
+        ]
+    }
+},
+{
+    "model": "socialaccount.socialapp",
+    "pk": 2,
+    "fields": {
+        "provider": "google",
+        "name": "Google login",
+        "client_id": "626672744856-eqb8r5kuhoeouhcsj36lkdrrsqfn2oq0.apps.googleusercontent.com",
+        "secret": "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",
+        "key": "",
+        "sites": [
+            [
+                "localhost:8000"
+            ]
+        ]
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+        "action_time": "2022-11-23T19:53:46.307Z",
+        "user": [
+            "myadmin"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "1",
+        "object_repr": "myadmin",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"First name\", \"Last name\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+        "action_time": "2022-11-23T20:07:46.543Z",
+        "user": [
+            "myadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "1",
+        "object_repr": "Team object (1)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+        "action_time": "2022-11-23T20:14:30.320Z",
+        "user": [
+            "myadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "1",
+        "object_repr": "Jeffrey",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Photo\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+        "action_time": "2022-11-23T22:25:31.337Z",
+        "user": [
+            "myadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "2",
+        "object_repr": "Michael",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+        "action_time": "2022-11-23T22:25:40.999Z",
+        "user": [
+            "myadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "1",
+        "object_repr": "Jeffrey",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+        "action_time": "2022-11-23T22:26:29.555Z",
+        "user": [
+            "myadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "3",
+        "object_repr": "Kobe",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+        "action_time": "2022-11-23T22:28:46.187Z",
+        "user": [
+            "myadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "4",
+        "object_repr": "Stephen",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+        "action_time": "2022-11-23T22:30:16.952Z",
+        "user": [
+            "myadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "5",
+        "object_repr": "Pau",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+        "action_time": "2022-11-23T22:32:20.234Z",
+        "user": [
+            "myadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "6",
+        "object_repr": "Kevon",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+        "action_time": "2022-11-23T22:52:42.525Z",
+        "user": [
+            "myadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "6",
+        "object_repr": "Kevon",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+        "action_time": "2022-11-23T22:54:17.611Z",
+        "user": [
+            "myadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "7",
+        "object_repr": "Kevon",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+        "action_time": "2022-11-28T00:53:10.475Z",
+        "user": [
+            "myadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "1",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+        "action_time": "2022-11-28T00:53:48.686Z",
+        "user": [
+            "myadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "BMW X6",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Car title\", \"State\", \"City\", \"Color\", \"Model\", \"Year\", \"Condition\", \"Price\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+        "action_time": "2022-11-28T00:53:59.199Z",
+        "user": [
+            "myadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "BMW X6",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Description\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 15,
+    "fields": {
+        "action_time": "2022-11-28T00:54:14.651Z",
+        "user": [
+            "myadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "BMW X6",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Car photo 1\", \"Car photo 2\", \"Car photo 3\", \"Features\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 16,
+    "fields": {
+        "action_time": "2022-11-28T00:54:48.759Z",
+        "user": [
+            "myadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "BMW X6",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Body style\", \"Engine\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 17,
+    "fields": {
+        "action_time": "2022-11-28T00:55:26.894Z",
+        "user": [
+            "myadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "BMW X6",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Transmission\", \"Interior\", \"Miles\", \"Doors\", \"Passengers\", \"Mileage\", \"Fuel type\", \"No of owners\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 18,
+    "fields": {
+        "action_time": "2022-11-28T00:55:35.815Z",
+        "user": [
+            "myadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "BMW X6",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Vin no\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 19,
+    "fields": {
+        "action_time": "2022-11-28T00:55:42.377Z",
+        "user": [
+            "myadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "BMW X6",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is featured\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 20,
+    "fields": {
+        "action_time": "2022-11-28T00:55:52.820Z",
+        "user": [
+            "myadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "BMW X6",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 21,
+    "fields": {
+        "action_time": "2022-11-28T00:57:03.927Z",
+        "user": [
+            "myadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "2022 BMW X6",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Car title\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 22,
+    "fields": {
+        "action_time": "2022-11-28T01:01:54.811Z",
+        "user": [
+            "myadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "2",
+        "object_repr": "2008 Ford Shelby",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 23,
+    "fields": {
+        "action_time": "2022-11-28T01:08:53.346Z",
+        "user": [
+            "myadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "3",
+        "object_repr": "2019 Mercedes-Benz AMG SL 63",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 24,
+    "fields": {
+        "action_time": "2022-11-28T01:09:20.927Z",
+        "user": [
+            "myadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "3",
+        "object_repr": "2019 Mercedes-Benz AMG SL 63",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 25,
+    "fields": {
+        "action_time": "2022-11-28T01:15:06.470Z",
+        "user": [
+            "myadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "4",
+        "object_repr": "2022 Ferrari Roma",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 26,
+    "fields": {
+        "action_time": "2022-11-28T17:58:25.055Z",
+        "user": [
+            "myadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "4",
+        "object_repr": "2022 Ferrari Roma",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is featured\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 27,
+    "fields": {
+        "action_time": "2022-11-28T18:20:50.842Z",
+        "user": [
+            "myadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "3",
+        "object_repr": "2019 Mercedes-Benz AMG SL 63",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is featured\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 28,
+    "fields": {
+        "action_time": "2022-11-28T18:47:53.549Z",
+        "user": [
+            "myadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "2",
+        "object_repr": "2008 Ford Shelby",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is featured\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 29,
+    "fields": {
+        "action_time": "2022-11-28T19:39:08.128Z",
+        "user": [
+            "myadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "4",
+        "object_repr": "2022 Ferrari Roma",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Transmission\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 30,
+    "fields": {
+        "action_time": "2022-11-28T19:48:33.147Z",
+        "user": [
+            "myadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "5",
+        "object_repr": "2019 Porsche 718 Cayman GTS",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 31,
+    "fields": {
+        "action_time": "2022-11-28T19:48:41.887Z",
+        "user": [
+            "myadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "2",
+        "object_repr": "2008 Ford Shelby",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is featured\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 32,
+    "fields": {
+        "action_time": "2022-11-29T00:18:30.824Z",
+        "user": [
+            "myadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "5",
+        "object_repr": "2019 Porsche 718 Cayman GTS",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Miles\", \"Mileage\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 33,
+    "fields": {
+        "action_time": "2022-11-29T00:18:36.902Z",
+        "user": [
+            "myadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "4",
+        "object_repr": "2022 Ferrari Roma",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Mileage\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 34,
+    "fields": {
+        "action_time": "2022-11-29T00:18:43.344Z",
+        "user": [
+            "myadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "3",
+        "object_repr": "2019 Mercedes-Benz AMG SL 63",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Miles\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 35,
+    "fields": {
+        "action_time": "2022-11-29T00:18:49.620Z",
+        "user": [
+            "myadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "2",
+        "object_repr": "2008 Ford Shelby",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Mileage\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 36,
+    "fields": {
+        "action_time": "2022-11-29T00:18:57.363Z",
+        "user": [
+            "myadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "2022 BMW X6",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Miles\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 37,
+    "fields": {
+        "action_time": "2022-11-29T00:19:19.564Z",
+        "user": [
+            "myadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "2022 BMW X6",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Miles\", \"Mileage\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 38,
+    "fields": {
+        "action_time": "2022-11-29T00:19:23.705Z",
+        "user": [
+            "myadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "2",
+        "object_repr": "2008 Ford Shelby",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 39,
+    "fields": {
+        "action_time": "2022-11-29T00:19:34.482Z",
+        "user": [
+            "myadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "3",
+        "object_repr": "2019 Mercedes-Benz AMG SL 63",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Miles\", \"Mileage\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 40,
+    "fields": {
+        "action_time": "2022-11-29T00:19:37.623Z",
+        "user": [
+            "myadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "4",
+        "object_repr": "2022 Ferrari Roma",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 41,
+    "fields": {
+        "action_time": "2022-11-29T00:19:40.539Z",
+        "user": [
+            "myadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "5",
+        "object_repr": "2019 Porsche 718 Cayman GTS",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 42,
+    "fields": {
+        "action_time": "2022-11-29T18:59:46.054Z",
+        "user": [
+            "myadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "6",
+        "object_repr": "2021 Lamborghini Urus",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 43,
+    "fields": {
+        "action_time": "2022-11-30T17:45:45.287Z",
+        "user": [
+            "myadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "6",
+        "object_repr": "2021 Lamborghini Urus",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 44,
+    "fields": {
+        "action_time": "2022-12-01T04:10:07.658Z",
+        "user": [
+            "myadmin"
+        ],
+        "content_type": [
+            "socialaccount",
+            "socialapp"
+        ],
+        "object_id": "1",
+        "object_repr": "Facebook login",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 45,
+    "fields": {
+        "action_time": "2022-12-01T04:11:19.976Z",
+        "user": [
+            "myadmin"
+        ],
+        "content_type": [
+            "sites",
+            "site"
+        ],
+        "object_id": "1",
+        "object_repr": "localhost:8000",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Domain name\", \"Display name\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 46,
+    "fields": {
+        "action_time": "2022-12-01T04:29:24.647Z",
+        "user": [
+            "myadmin"
+        ],
+        "content_type": [
+            "socialaccount",
+            "socialapp"
+        ],
+        "object_id": "2",
+        "object_repr": "Google login",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 47,
+    "fields": {
+        "action_time": "2022-12-01T19:21:01.550Z",
+        "user": [
+            "myadmin"
+        ],
+        "content_type": [
+            "contacts",
+            "contact"
+        ],
+        "object_id": "4",
+        "object_repr": "hao_zhuang@berkeley.edu",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 48,
+    "fields": {
+        "action_time": "2022-12-01T19:21:06.330Z",
+        "user": [
+            "myadmin"
+        ],
+        "content_type": [
+            "contacts",
+            "contact"
+        ],
+        "object_id": "3",
+        "object_repr": "peter95zh@gmail.com",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 49,
+    "fields": {
+        "action_time": "2022-12-01T19:33:53.602Z",
+        "user": [
+            "myadmin"
+        ],
+        "content_type": [
+            "contacts",
+            "contact"
+        ],
+        "object_id": "5",
+        "object_repr": "peter95zh@gmail.com",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 50,
+    "fields": {
+        "action_time": "2022-12-01T19:33:58.272Z",
+        "user": [
+            "myadmin"
+        ],
+        "content_type": [
+            "contacts",
+            "contact"
+        ],
+        "object_id": "2",
+        "object_repr": "123@123.com",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 51,
+    "fields": {
+        "action_time": "2022-12-01T19:50:45.935Z",
+        "user": [
+            "myadmin"
+        ],
+        "content_type": [
+            "contacts",
+            "contact"
+        ],
+        "object_id": "1",
+        "object_repr": "peter95zh@gmail.com",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 52,
+    "fields": {
+        "action_time": "2022-12-01T19:53:35.008Z",
+        "user": [
+            "myadmin"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "2",
+        "object_repr": "yoyo",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 53,
+    "fields": {
+        "action_time": "2022-12-01T19:53:39.078Z",
+        "user": [
+            "myadmin"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "4",
+        "object_repr": "peter",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 54,
+    "fields": {
+        "action_time": "2022-12-01T19:53:44.034Z",
+        "user": [
+            "myadmin"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "3",
+        "object_repr": "hao",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 55,
+    "fields": {
+        "action_time": "2022-12-01T19:53:53.261Z",
+        "user": [
+            "myadmin"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "5",
+        "object_repr": "hao6",
+        "action_flag": 3,
+        "change_message": ""
+    }
+}
+]
